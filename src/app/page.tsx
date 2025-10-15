@@ -225,7 +225,7 @@ function NavBar() {
                   </a>
                 ))}
                 <Button asChild className="mt-2">
-                  <a href="/login.php">Masuk</a>
+                  <a href="#">Masuk</a>
                 </Button>
               </div>
             </SheetContent>
@@ -255,7 +255,7 @@ function Hero() {
             teknologi digital.
           </p>
           <Button asChild className="mt-6 rounded-full">
-            <a href="/login.php">Masuk</a>
+            <a href="#">Masuk</a>
           </Button>
         </motion.div>
         <div className="hidden md:block w-[280px] h-[280px] rounded-full overflow-hidden border-4 border-white/20 shadow-lg">
