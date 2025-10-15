@@ -195,7 +195,7 @@ function NavBar() {
 
         <div className="hidden md:block">
           <Button asChild className="rounded-full">
-            <a href="/login.php">Masuk</a>
+            <a href="#">Masuk</a>
           </Button>
         </div>
 
